@@ -2,7 +2,7 @@
 - I’m interested in transcriptomics, epigenomics and single cell omic data analysis.
 - I have 4+ years of working on command line and R. But recently started to use Github to organise my analysis projects for publications. 
 - Right now, I am doing a data science professional course by HarvardX, hosted at [edX] to improve my data wrangling skills, data visualization, necessary statistics and machine learning. I am primarly using R.
-- You can reach me at [Linkedin]. Here is my [google scholar] profile for all the my publications so far.
+- You can reach me at [Linkedin]. Here is my [google scholar] profile for the my publications.
 
 [Linkedin]: https://www.linkedin.com/in/mssakib/
 [edX]:https://www.edx.org/professional-certificate/harvardx-data-science
