@@ -1,7 +1,7 @@
 - I’m interested in the data sciences of transcriptomics, epigenomics and single cell omic data analysis.
 - I have 7+ years of experience on working with command line and R. _Also following up AI applications in Genomics since 2024._
 - Was following up, a data science professional course by HarvardX, hosted at [edX] to improve my data wrangling skills, data visualization, necessary statistics and machine learning. I am primarly using R. You can see my progress [here].
-- You can reach me at [Linkedin]. _LinkedIn is the most updated versions of my professional footprints so far._
+- You can reach me at [Linkedin]. _LinkedIn has the most updated versions of my professional footprints so far._
 - Here is my [google scholar] profile for a list of my publications.
 
 [Linkedin]: https://www.linkedin.com/in/msadman-sakib/
